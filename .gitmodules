@@ -1,3 +1,3 @@
 [submodule "vendor/Threadi"]
 	path = vendor/Threadi
-	url = https://github.com/danielpoe/Threadi.git
+	url = https://github.com/cogitatio/Threadi.git
